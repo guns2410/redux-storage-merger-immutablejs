@@ -10,12 +10,6 @@
 
 Merger for [redux-storage][] that know how to deal with [ImmutableJS][] objects.
 
-# A fork of [michaelcontento/redux-storage-merger-immutablejs](https://github.com/michaelcontento/redux-storage-merger-immutablejs)
-
-The original author of the package [redux-storage-merger-immutablejs](https://github.com/michaelcontento/redux-storage-merger-immutablejs) has decided to deprecate the project and no longer maintained. The package will now be maintained here.
-
-Thank you michaelcontento for a great library!
-
 ## Installation
 
     npm install --save redux-storage-merger-immutablejs
@@ -28,6 +22,12 @@ Custom mergers, like this one, can simply be passed as second argument to [redux
 import merger from 'redux-storage-merger-immutablejs';
 const reducer = storage.reducer(reducer, merger);
 ```
+
+# A fork of [redux-storage-merger-immutablejs](https://github.com/michaelcontento/redux-storage-merger-immutablejs)
+
+The original author of the package [redux-storage-merger-immutablejs](https://github.com/michaelcontento/redux-storage-merger-immutablejs) has decided to deprecate the project and no longer maintained. The package will now be maintained here.
+
+Thank you [michaelcontento](https://github.com/michaelcontento) for a great library!
 
 ## License
 
