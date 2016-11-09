@@ -1,4 +1,4 @@
-# [redux-storage-merger-immutablejs][]
+# redux-storage-merger-immutablejs
 
 [![build](https://travis-ci.org/michaelcontento/redux-storage-merger-immutablejs.svg?branch=master)](https://travis-ci.org/michaelcontento/redux-storage-merger-immutablejs)
 [![dependencies](https://david-dm.org/michaelcontento/redux-storage-merger-immutablejs.svg)](https://david-dm.org/michaelcontento/redux-storage-merger-immutablejs)
@@ -10,14 +10,11 @@
 
 Merger for [redux-storage][] that know how to deal with [ImmutableJS][] objects.
 
-# Deprecated - No longer maintained
+# A fork of [michaelcontento/redux-storage-merger-immutablejs](https://github.com/michaelcontento/redux-storage-merger-immutablejs)
 
-My focus has left the node / react ecosystem and this module is no
-longer maintained. Maybe [redux-persist](https://github.com/rt2zz/redux-persist) 
-is a good replacement for you? Or if you want to step in and become
-the new owner - just ping me :smile:
+The original author of the package [redux-storage-merger-immutablejs](https://github.com/michaelcontento/redux-storage-merger-immutablejs) has decided to deprecate the project and no longer maintained. The package will now be maintained here.
 
-Thank you for your patience and using this module in the first place!
+Thank you michaelcontento for a great library!
 
 ## Installation
 
@@ -36,7 +33,7 @@ const reducer = storage.reducer(reducer, merger);
 
     The MIT License (MIT)
 
-    Copyright (c) 2016 Michael Contento
+    Copyright (c) 2016 Gunjan Soni
 
     Permission is hereby granted, free of charge, to any person obtaining a copy of
     this software and associated documentation files (the "Software"), to deal in
@@ -55,6 +52,6 @@ const reducer = storage.reducer(reducer, merger);
     IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
     CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-  [redux-storage]: https://github.com/michaelcontento/redux-storage
-  [redux-storage-merger-immutablejs]: https://github.com/michaelcontento/redux-storage-merger-immutablejs
-  [ImmutableJS]: https://github.com/michaelcontento/redux-storage-decorator-immutablejs
+  [redux-storage]: https://github.com/guns2410/redux-storage
+  [redux-storage-merger-immutablejs]: https://github.com/guns2410/redux-storage-merger-immutablejs
+  [ImmutableJS]: https://github.com/guns2410/redux-storage-decorator-immutablejs
