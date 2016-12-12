@@ -1,6 +1,6 @@
 {
   "name": "redux-storage-merger-immutablejs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ImmutableJS compatible merger for redux-storage",
   "main": "build/index.js",
   "scripts": {
