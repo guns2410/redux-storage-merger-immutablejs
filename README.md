@@ -1,8 +1,8 @@
 # redux-storage-merger-immutablejs
 
-[![build](https://travis-ci.org/michaelcontento/redux-storage-merger-immutablejs.svg?branch=master)](https://travis-ci.org/michaelcontento/redux-storage-merger-immutablejs)
-[![dependencies](https://david-dm.org/michaelcontento/redux-storage-merger-immutablejs.svg)](https://david-dm.org/michaelcontento/redux-storage-merger-immutablejs)
-[![devDependencies](https://david-dm.org/michaelcontento/redux-storage-merger-immutablejs/dev-status.svg)](https://david-dm.org/michaelcontento/redux-storage-merger-immutablejs#info=devDependencies)
+[![build](https://travis-ci.org/react-stack/redux-storage-merger-immutablejs.svg?branch=master)](https://travis-ci.org/react-stack/redux-storage-merger-immutablejs)
+[![dependencies](https://david-dm.org/react-stack/redux-storage-merger-immutablejs.svg)](https://david-dm.org/react-stack/redux-storage-merger-immutablejs)
+[![devDependencies](https://david-dm.org/react-stack/redux-storage-merger-immutablejs/dev-status.svg)](https://david-dm.org/react-stack/redux-storage-merger-immutablejs#info=devDependencies)
 
 [![license](https://img.shields.io/npm/l/redux-storage-merger-immutablejs.svg?style=flat-square)](https://www.npmjs.com/package/redux-storage-merger-immutablejs)
 [![npm version](https://img.shields.io/npm/v/redux-storage-merger-immutablejs.svg?style=flat-square)](https://www.npmjs.com/package/redux-storage-merger-immutablejs)
